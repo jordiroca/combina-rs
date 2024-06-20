@@ -1,4 +1,4 @@
-![clipart image of two elderly men sorting piles of papers in an old office](<clipart image of two elderly men sorting piles of papers in an old office.webp>)
+![clipart image of two elderly men sorting piles of papers in an old office](<img/clipart image of two elderly men sorting piles of papers in an old office.webp>)
 
 # Combina
 
